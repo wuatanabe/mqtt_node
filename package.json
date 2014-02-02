@@ -1,0 +1,40 @@
+{
+  "author": "Paolo Freuli <paolo.freuli@gmail.com>",
+  "name": "mqtt_node",
+  "description": "A Node library for the MQTT protocol",
+  "version": "0.0.1",
+  "contributors": [
+  ],
+  "keywords": [
+    "mqtt",
+    "m2m",
+    "IoT",
+    "server",
+    "client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wuatanabe/mqtt_node.git"
+  },
+  "main": "index.js",
+  "scripts": {
+		"test": "vows --spec"
+  },
+  "bin": {
+    "mqtt_server": "./bin/start_client",
+    "mqtt_client": "./bin/start_server"
+  },
+  "engines": {
+    "node": ">=0.8.6"
+  },
+  "dependencies": {
+	"mqtt_packet" : "0.0.x",
+	"logme": "0.3.8"
+  },
+"devDependencies": {    
+	"mocha": "1.4.x",    
+	"zombie": "1.4.x" ,
+        "assert": "1.1.x" 	
+	}
+}
+ 
