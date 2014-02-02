@@ -1,4 +1,4 @@
-MQTT_PACKET
+MQTT_NODE
 ====================
 
 MQTT Message Server/Client Module - A library to simpe MQTT Clients and Servers
@@ -36,8 +36,8 @@ Coming Soon
 
 ## Links
 
-* [GIT Repository](http://github.com/wuatanabe/mqtt_packet)
-* [NPM Repository](https://npmjs.org/package/mqtt_packet)
+* [GIT Repository](http://github.com/wuatanabe/mqtt_node)
+* [NPM Repository](https://npmjs.org/package/mqtt_node)
 
 ## Authors
 
