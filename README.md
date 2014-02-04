@@ -30,11 +30,15 @@ mqtt_node depends on [mqtt_packet](http://github.com/wuatanabe/mqtt_packet)
 
 Start sample server listening on stadard MQTT port 1883:
 
+``
  node main.js
- 
- Start sample client connecting to a server connecting to 127.0.0.1:1883 
+ ``
 
- node run_client.js
+Start sample client connecting to a server listening at 127.0.0.1:1883 
+
+``
+node run_client.js
+``
  
  
 ### Configuration

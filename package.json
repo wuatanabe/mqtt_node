@@ -2,7 +2,7 @@
   "author": "Paolo Freuli <paolo.freuli@gmail.com>",
   "name": "mqtt_node",
   "description": "A Node library for the MQTT protocol",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "contributors": [
   ],
   "keywords": [
