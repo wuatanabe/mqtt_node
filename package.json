@@ -29,7 +29,8 @@
   },
   "dependencies": {
 	"mqtt_packet" : "0.0.x",
-	"logme": "0.3.8"
+	"logme": "0.3.8",
+	"moment": "2.0.x"
   },
 "devDependencies": {    
 	"mocha": "1.4.x",    
