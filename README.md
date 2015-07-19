@@ -1,7 +1,7 @@
 MQTT_NODE
 ====================
 
-MQTT Message Server/Client Module - A library to simpe MQTT Clients and Servers
+MQTT Message Server/Client Module - A library to realize simple MQTT Clients and Servers
 
 Beware: the library is in alfa status
 
